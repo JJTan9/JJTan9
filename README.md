@@ -3,7 +3,7 @@
 <h1 align="center">Hello There👋, My name is Jay Jay Tan</h1>
 <h3 align="center">Future Web Developer</h3>
 
-🌱 I’m currently learning **IT** with the hope of being a future web developer
+🌱 I’m currently studying the course of **IT** with the hope of being a future web developer
 
 
 
